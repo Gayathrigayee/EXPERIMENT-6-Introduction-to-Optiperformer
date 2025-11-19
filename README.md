@@ -70,22 +70,23 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-19 at 23 08 59_eff0e051](https://github.com/user-attachments/assets/17707b04-a310-4bc2-948b-41ba08ba18d5)
 
 ---
 
 ## Graphs
+<img width="623" height="346" alt="image" src="https://github.com/user-attachments/assets/70b3eabe-9200-4513-b690-393a22c903d4" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="624" height="361" alt="image" src="https://github.com/user-attachments/assets/0976ed4d-4d4a-4908-b934-452d3ac71a7a" />
+
+<img width="625" height="358" alt="image" src="https://github.com/user-attachments/assets/61f92b36-b5ec-43cd-9934-c173d1e178f5" />
+
+<img width="624" height="354" alt="image" src="https://github.com/user-attachments/assets/f881521a-34a4-4c3d-8ec7-f81bedf09917" />
+
+<img width="622" height="353" alt="image" src="https://github.com/user-attachments/assets/44f853ae-5882-4be5-b8f2-572872a1d9ea" />
+
+![WhatsApp Image 2025-11-19 at 23 11 28_e24d842e](https://github.com/user-attachments/assets/e86f5ecd-d5ff-41d7-a5c6-905bd0e02f47)
 
 ---
-
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+Hence the graphs are verified using optiperf
